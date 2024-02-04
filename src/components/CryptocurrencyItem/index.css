@@ -1,0 +1,9 @@
+.currency-logo {
+  height: 20px;
+}
+p {
+  color: aliceblue;
+}
+.currency-item {
+  display: flex;
+}
